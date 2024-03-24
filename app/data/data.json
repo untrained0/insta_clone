@@ -1,0 +1,158 @@
+{
+    "stories":[
+	{
+		"id":"-1",
+		"name":"Your Story",
+		"image":"https://i.pravatar.cc/100"
+
+	},	
+    {
+		"id":"1",
+		"name": "Tamara Pickett",
+        "image":"https://i.pravatar.cc/100"
+	},
+	{
+		"id":"2",
+		"name": "Sophia Gomez",
+        "image":"https://i.pravatar.cc/100"
+	},
+	{
+		"id":"3",
+		"name": "Brenna Nixon",
+        "image":"https://i.pravatar.cc/100"
+	},
+	{
+		"id":"4",
+		"name": "Hayes Weiss",
+        "image":"https://i.pravatar.cc/100"
+	},
+	{
+		"id":"5",
+		"name": "Reed Bond",
+        "image":"https://i.pravatar.cc/100"
+	}
+],
+"posts":[
+	{
+		
+	  "user": {
+		"username": "Nate",
+		"photoUrl": "https://i.pravatar.cc/100",
+		"email": ""
+	  },
+	  "images": [
+		"https://i.insider.com/5d03aa8e6fc9201bc7002b43?width=1136&format=jpeg",
+		"https://images.unsplash.com/photo-1526512340740-9217d0159da9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+		"https://images.unsplash.com/photo-1687220297381-f8fddaa09163?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw5fHx8ZW58MHx8fHx8&auto=fo"
+	  ],
+	  "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eiusmod tempor incididunt ut ipsum dolor sit amet, consectetur adipiscing elit. Sed eiusmod tempor incididunt utipsum dolor sit amet, consectetur adipiscing elit. Sed eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim.",
+	  "createdAt": "25 m",
+	  "likes": ["1","2"],
+	  "comments": [
+		{
+			"user": {
+			  "username": "Emily",
+			  "photoUrl": "https://i.pravatar.cc/100"
+			},
+			"comment": "Absolutely stunning!",
+			"createdAt": "2 h"
+		  },
+		  {
+			"user": {
+			  "username": "Sophie",
+			  "photoUrl": "https://i.pravatar.cc/100"
+			},
+			"comment": "Wow, I wish I could be there!",
+			"createdAt": "2 h"
+		  }
+	  ],
+	  "userRef": "1"
+	},
+	{
+		
+	  "user": {
+		"username": "Lukas",
+		"photoUrl": "https://i.pravatar.cc/100",
+		"email": ""
+	  },
+	  "images": [
+		"https://images.unsplash.com/photo-1526512340740-9217d0159da9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
+	  ],
+	  "caption": "Beautiful sunset view",
+	  "createdAt": "2 h",
+	  "likes": ["1","2"],
+	  "comments": [
+		{
+		  "user": {
+			"username": "Emily",
+			"photoUrl": "https://scontent.fkiv3-1.fna.fbcdn.net/v/t1.0-1/p160x160/112625209_3153146978111907_1494185409294955798_n.jpg?_nc_cat=106&_nc_sid=dbb9e7&_nc_eui2=AeFZP1Zbs-q78KmMMvWtxj0pDLueL93ZoApbL8w8EGSbgXaYqD3EbrhBkJx8Lzpq_t_nC2WQLG0e_mkbI5O9RWGL&_nc_ohc=2FAYk9E-cWwAX8viu1_&_nc_ht=scontent.fkiv3-1.fna&_nc_tp=6&oh=5c16047b906f34a1d0824a07d2ee01bc&oe=5F413DCC"
+		  },
+		  "comment": "Absolutely stunning!",
+		  "createdAt": "2 h"
+		},
+		{
+		  "user": {
+			"username": "Sophie",
+			"photoUrl": "https://scontent.fkiv3-1.fna.fbcdn.net/v/t1.0-1/p160x160/116073823_3179124368847501_1871346540062134964_o.jpg?_nc_cat=107&_nc_sid=dbb9e7&_nc_eui2=AeE1IKlM0md6z9h_vzTCc6x8MioBk3PkgCaVbVHpskOuOPiEGbbx2KcJxPBJV-ayuapz0Wb1vdKOt5IOn_NwdS4C&_nc_ohc=f12e42dGKWoAX9RKIvK&_nc_ht=scontent.fkiv3-1.fna&_nc_tp=6&oh=460a3eb8ad9a9f51c8ad7416a1350fd1&oe=5F43B84A"
+		  },
+		  "comment": "Wow, I wish I could be there!",
+		  "createdAt": "2 h"
+		}
+	  ],
+	  "userRef": "2"
+	}
+  ],
+  "reels":
+  [
+    {
+        "id": "1",
+        "title": "Big Buck Bunny",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Big_Buck_Bunny_thumbnail_vlc.png/1200px-Big_Buck_Bunny_thumbnail_vlc.png",
+        "duration": "8:18",
+        "uploadTime": "May 9, 2011",
+        "author": "big_buck",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+		"likes":8000,
+       	"shares":450,
+		"comments":200
+    },
+    {
+        "id": "2",
+        "title": "The first Blender  Movie",
+        "thumbnailUrl": "https://i.ytimg.com/vi_webp/gWw23EYM9VM/maxresdefault.webp",
+        "duration": "12:18",
+        "uploadTime": "May 9, 2011",
+        "author": "mr__blend",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+		"likes":4500,
+		"shares":3500,
+		"comments":9500
+    },
+    {
+        "id": "3",
+        "title": "For Bigger Blazes",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Dr9C2oswZfA/maxresdefault.jpg",
+        "duration": "8:18",
+        "uploadTime": "May 9, 2011",
+        "author": "iamKing",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+		"likes":1500,
+		"shares":300,
+		"comments":70
+    },
+    {
+        "id": "4",
+        "title": "For Bigger Escape",
+        "thumbnailUrl": "https://img.jakpost.net/c/2019/09/03/2019_09_03_78912_1567484272._large.jpg",
+        "duration": "8:18",
+        "uploadTime": "May 9, 2011",
+        "author": "dailydose",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+		"likes":406,
+		"shares":301,
+		"comments":180
+    }
+]
+  
+
+}
